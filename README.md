@@ -1,0 +1,2 @@
+This is a simple exercise of data visualization, cleaning and fitting.
+The data are from mlbootcamp.ru, the goal is to predict wether a patient will have a heart desiese based on their age, height, blood pressure etc. They consist of labeled train.csv and unlabeled test.csv data.
